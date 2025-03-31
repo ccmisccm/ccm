@@ -17,3 +17,5 @@
 *.bat
 *.tar
 *.pyc
+*.md
+/data/ccgan_ssv/read_ccm.txt
